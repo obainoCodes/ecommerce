@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.03934475.css",
+    "main.js": "/ecommerce/static/js/main.8b29f641.js",
+    "static/js/787.dcc73137.chunk.js": "/ecommerce/static/js/787.dcc73137.chunk.js",
+    "static/media/hero_img.png": "/ecommerce/static/media/hero_img.9ab5cff8c0e348e7e6d1.png",
+    "static/media/contact.png": "/ecommerce/static/media/contact.50eb226588dbac8464fd.png",
+    "static/media/image3.png": "/ecommerce/static/media/image3.63712e5ca67b430b6016.png",
+    "static/media/about.avif": "/ecommerce/static/media/about.7e903581bf241f1f7188.avif",
+    "static/media/logo3.png": "/ecommerce/static/media/logo3.4df7274eea55b094df6e.png",
+    "static/media/image4.png": "/ecommerce/static/media/image4.f80d476ced9eb41795c9.png",
+    "static/media/image2.webp": "/ecommerce/static/media/image2.c7f76263b8ea214b7985.webp",
+    "static/media/image5.svg": "/ecommerce/static/media/image5.34ff1dd572e8e0f49e6b1c230b8ac17c.svg",
+    "static/media/facebook-logo.svg": "/ecommerce/static/media/facebook-logo.04e7b88a73bdd8e365ec573a42a657a2.svg",
+    "index.html": "/ecommerce/index.html",
+    "main.03934475.css.map": "/ecommerce/static/css/main.03934475.css.map",
+    "main.8b29f641.js.map": "/ecommerce/static/js/main.8b29f641.js.map",
+    "787.dcc73137.chunk.js.map": "/ecommerce/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03934475.css",
+    "static/js/main.8b29f641.js"
+  ]
+}
